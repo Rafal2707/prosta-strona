@@ -17,3 +17,31 @@
 #about-us {
   background-color: khaki;
 }
+
+.diva {
+  height: 200px;
+  width: 200px;
+  background-color: red;
+  display: inline-table;
+}
+
+.divb {
+  height: 200px;
+  width: 200px;
+  background-color: green;
+  display: inline-table;
+}
+
+.divc {
+  height: 200px;
+  width: 200px;
+  background-color: blue;
+  display: inline-table;
+}
+
+.divd {
+  height: 200px;
+  width: 200px;
+  background-color: black;
+  display: inline-table;
+}
